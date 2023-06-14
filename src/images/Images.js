@@ -1,0 +1,11 @@
+export { default as Logo } from "./logo.svg";
+export { default as Favicon } from "./favicon.ico";
+export { default as AboutBg } from "./about.jpeg";
+export { default as MainBg } from "./main.jpeg";
+export { default as Tour1 } from "./tour-1.jpeg";
+export { default as Tour2 } from "./tour-2.jpeg";
+export { default as Tour3 } from "./tour-3.jpeg";
+export { default as Tour4 } from "./tour-4.jpeg";
+export { default as Tour5 } from "./tour-5.jpeg";
+export { default as Tour6 } from "./tour-6.jpeg";
+export { default as Main } from "./main.jpeg";
